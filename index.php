@@ -31,8 +31,10 @@ session_start();
 // **************************************************************************************
 // **************************************************************************************
 
-
-
+ ?>
+    <!-- Bootstrap core JavaScript -->
+    <!--<script src="vendor/jquery/jquery.min.js"></script>-->  <!--- EMERGENCY caused crashing on ZZZ, localhost was OK-->
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 
 // **************************************************************************************
